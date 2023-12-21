@@ -1,2 +1,6 @@
 # Restoring-the-lifeblood-of-Maji-Ndogo
-At the heart of this project is the water crisis faced by a fictitious country called Maji Ndogo. This project progressively challenges us and offers less guidance as we progress, pushing us to think critically. By the end, we won’t just have a deeper understanding of SQL but also a blueprint for how to approach problems in future missions.
+This project's heart is the water crisis faced by a fictitious country called Maji Ndogo. In this project, we will dive deep into the intricacies of
+using SQL to solve complex problems.
+This project progressively challenges us and offers less guidance as we progress, pushing us to think critically. By the end, we won’t just have
+a deeper understanding of SQL and a blueprint for approaching problems in future missions.
+![image](https://github.com/HelmyGamal/Restoring-the-lifeblood-of-Maji-Ndogo/assets/98733733/f6290a72-a563-4b3a-8a5c-2c12849426d2)
